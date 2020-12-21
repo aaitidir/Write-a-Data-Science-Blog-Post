@@ -5,11 +5,11 @@
 
 This project was created and run using Python version 3.0.
 
-1) You will need to download Montreal’s towing operations data.
+>1) You will need to download Montreal’s towing operations data.
 https://donnees.montreal.ca/ville-de-montreal/remorquages-de-vehicules-genants
-Get the : "Remorquages après le 15 nov 2015" 
-
-2)Store it in the project folder to be read by read_csv
+>Get the : "Remorquages après le 15 nov 2015"  file
+ 
+>2)Store it in the project folder to be read by read_csv
   pd.read_csv("./remorquages.csv")
 
 
@@ -31,8 +31,8 @@ Finally as the city tries to address the issue each year we will explore the evo
 
 ## File Desriptions
 
-.Pynb : File contianing EDA and findings
-README.md
+>.Pynb : File contianing EDA and findings
+>README.md
 
 ## Blog post
 The blog post can be found here
