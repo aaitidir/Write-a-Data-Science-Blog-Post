@@ -1,7 +1,7 @@
 # Write-a-Data-Science-Blog-Post
 
 
-Installations
+## Installations
 
 This project was created and run using Python version 3.0.
 
@@ -13,8 +13,7 @@ Get the : "Remorquages après le 15 nov 2015"
   pd.read_csv("./remorquages.csv")
 
 
-
-Motivations
+## Motivations
 The city of Montreal has an open data platform that provides a data set with relevant information about the towing operations.
 
 As Montreal is divided in boroughs we will explore the relation between the boroughs and the towing operations.
@@ -30,11 +29,11 @@ Finally as the city tries to address the issue each year we will explore the evo
 
 
 
-File Desriptions
+## File Desriptions
 
 .Pynb : File contianing EDA and findings
 README.md
 
-
+## Blog post
 The blog post can be found here
 https://adel-i.medium.com/montreal-towing-operations-7c5e5f2f021d
