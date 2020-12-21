@@ -9,7 +9,7 @@ This project was created and run using Python version 3.0.
 https://donnees.montreal.ca/ville-de-montreal/remorquages-de-vehicules-genants
 >Get the : "Remorquages après le 15 nov 2015"  file
  
->2)Store it in the project folder to be read by read_csv
+>2) Store it in the project folder to be read by read_csv
   pd.read_csv("./remorquages.csv")
 
 
